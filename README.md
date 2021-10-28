@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img border-radius: 15px src="https://NAJUSIR.jpg" width="200" height="200"/>
+<img src=https://NAJUSIR.jpg>
 </p>
   <p align="center">
 <a href="https://github.com/Solo-Sulthan"><img title="Author" src="https://img.shields.io/badge/Author-Naju-Solo-Sulthan/Naju-sir?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -42,7 +42,7 @@ $ git clone https://github.com/Solo-Sulthan/Naju-sir
 $ cd Naju-sir
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Aleena.js
+$ node julie.js
 ```
       
 ```js
@@ -50,7 +50,7 @@ SETUP
 $ git clone https://github.com/Solo-Sulthan/Naju-sir
 $ cd Naju-sir
 $ npm i
-$ node Aleena.js
+$ node julie.js
 ```
 
 ----
@@ -99,9 +99,9 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
     
-  [![Solo-Sulthan](https://github.com/NAJUSIR.jpg?size=100)](https://github.com/Solo-Sulthan)
+  [![NAJUSIR](https://github.com/NAJUSIR.jpg?size=100)](https://github.com/Solo-Sulthan)
 ----|----|----|----
-[Naju-sir](https://github.com/NAJUSIR.jpg)
+[NAJUSIR](https://github.com/NAJUSIR.jpg)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixs, Modules 
   
 </div>
