@@ -4,10 +4,10 @@
 </p>
 <div align="center">
   <p align="center">
-<img border-radius: 15px src="https://NAJUSIR.jpg" width="200" height="200"/>>
+<img border-radius: 15px src="https://Najusir.jpg" width="200" height="200"/>>
 </p>
   <p align="center">
-<a href="https://github.com/Solo-Sulthan"><img title="Author" src="https://img.shields.io/badge/Author-Naju-Solo-Sulthan/Naju-sir?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Najusir.jpg"><img title="Author" src="https://img.shields.io/badge/Author-Naju-Solo-Sulthan/Naju-sir?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
