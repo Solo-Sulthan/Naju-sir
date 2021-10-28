@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://NAJUSIR.jpg>
+<img border-radius: 15px src="https://NAJUSIR.jpg" width="200" height="200"/>>
 </p>
   <p align="center">
 <a href="https://github.com/Solo-Sulthan"><img title="Author" src="https://img.shields.io/badge/Author-Naju-Solo-Sulthan/Naju-sir?color=blue&style=for-the-badge&logo=whatsapp"></a>
